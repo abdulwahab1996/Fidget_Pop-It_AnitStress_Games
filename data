@@ -1,0 +1,70 @@
+{
+"can_show_ads":true , 
+
+"Update_App" : false , 
+"Use_APP_Open": false , 
+
+"Use_Reward_Pop_Up": false ,
+
+"Start_Time"  :  "06:30" , 
+"End_Time"    :  "08:45" ,
+"Total_Rewards_Ads" : 1 , 
+
+"Ads_Request_Times":
+{
+"App_Open_Request_Time" : 7 ,
+"Rewarded_Request_Time" : 7 , 
+"Interstital_Request_Time" : 7 , 
+"Banner_Request_Time" : 7 , 
+"Banner_ReRequest_Time" : 30
+},
+
+"Versions":
+[
+"1.02"
+],
+
+"App_Open_Ids":
+[
+"ca-app-pub-3940256099942544/3419835294"
+],
+
+"Banner_Ids":
+[
+"ca-app-pub-3940256099942544/9214589741"
+],
+
+"Interstital_Ids":
+[
+"ca-app-pub-3940256099942544/1033173712"
+],
+
+"Rewarded_Ids":
+[
+"ca-app-pub-3940256099942544/5224354917"
+],
+
+"use_banner_data":
+
+{
+"use_adaptive_banner": true , 
+"use_main_small_banner_01":false , 
+"use_main_small_banner_02":false , 
+"use_sub_rectangle_banner_01":false ,
+"use_sub_rectangle_banner_02":false , 
+"use_sub_small_banner_01":false , 
+"use_sub_small_banner_02":false
+} , 
+
+"banner_placements":
+
+{"adaptive_banner": "bottom" , 
+"main_small_banner_01":"top_left",
+"main_small_banner_02":"top_right" ,
+"sub_rectangle_banner_01" : "top_left" , 
+"sub_rectangle_banner_02": "bottom_right" ,
+"sub_small_banner_01":"bottom_left" ,
+"sub_small_banner_02" : "bottom_right"
+} 
+
+, "hide_main_banner": true }
