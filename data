@@ -21,7 +21,7 @@
 
 "Versions":
 [
-"1.01"
+"1.02"
 ],
 
 "App_Open_Ids":
@@ -47,7 +47,7 @@
 "use_banner_data":
 
 {
-"use_adaptive_banner": true , 
+"use_adaptive_banner": false , 
 "use_main_small_banner_01":false , 
 "use_main_small_banner_02":false , 
 "use_sub_rectangle_banner_01":false ,
