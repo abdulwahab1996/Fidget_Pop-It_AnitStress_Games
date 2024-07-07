@@ -16,7 +16,7 @@
 "Rewarded_Request_Time" : 7 , 
 "Interstital_Request_Time" : 7 , 
 "Banner_Request_Time" : 7 , 
-"Banner_ReRequest_Time" : 30
+"Banner_ReRequest_Time" : 180
 },
 
 "Versions":
