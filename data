@@ -1,5 +1,5 @@
 {
-"can_show_ads": true , 
+"can_show_ads": false , 
 
 "Update_App" : false , 
 "Use_APP_Open": false , 
@@ -26,22 +26,22 @@
 
 "App_Open_Ids":
 [
-"ca-app-pub-5153045025286249/7712985125"
+"ca-app-pub-5153045025286249/771298512 5"
 ],
 
 "Banner_Ids":
 [
-"ca-app-pub-5153045025286249/1062982145"
+"ca-app-pub-5153045025286249/106298214 5"
 ],
 
 "Interstital_Ids":
 [
-"ca-app-pub-5153045025286249/2865984566"
+"ca-app-pub-5153045025286249/286598456 6"
 ],
 
 "Rewarded_Ids":
 [
-"ca-app-pub-5153045025286249/9294827393"
+"ca-app-pub-5153045025286249/929482739 3"
 ],
 
 "use_banner_data":
